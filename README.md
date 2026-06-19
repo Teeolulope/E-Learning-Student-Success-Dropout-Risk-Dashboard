@@ -12,6 +12,7 @@ The dashboard is built to be reviewed on a recurring basis to monitor course per
 
 5,000 student records across 3 regions (Latin America, South/Southeast Asia, Sub-Saharan Africa)
 Fields include demographics, device & internet type, subscription tier, login frequency, video watch time, quiz performance, completion rate, course category, and dropout status
+![image]Screenshot 2026-06-19 102309.png
 📊 Dashboard Pages
 
 1. Course Performance
@@ -26,7 +27,7 @@ Do completers score higher? — scatter plot of completion rate vs average quiz 
 
 
 Key finding: Programming and Data Analytics lead on both completion (66% and 64%) and quiz scores, while Vocational and Healthcare consistently underperform on both (40% and 42% completion). Poor internet cuts completion by 15–20 percentage points across every course category regardless of subject.
-![image]
+
 
 
 2. Engagement & Dropout Behaviour
