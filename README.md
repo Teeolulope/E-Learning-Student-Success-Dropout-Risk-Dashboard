@@ -13,7 +13,8 @@ The dashboard is built to be reviewed on a recurring basis to monitor course per
 5,000 student records across 3 regions (Latin America, South/Southeast Asia, Sub-Saharan Africa)
 Fields include demographics, device & internet type, subscription tier, login frequency, video watch time, quiz performance, completion rate, course category, and dropout status
 
-![image](Screenshot 2026-06-19 101447.png)
+<img width="1888" height="917" alt="Screenshot 2026-06-19 102309" src="https://github.com/user-attachments/assets/cf95f0e9-87ad-4a3e-9625-535f3941b165" />
+
 📊 Dashboard Pages
 
 1. Course Performance
@@ -29,6 +30,7 @@ Do completers score higher? — scatter plot of completion rate vs average quiz 
 
 Key finding: Programming and Data Analytics lead on both completion (66% and 64%) and quiz scores, while Vocational and Healthcare consistently underperform on both (40% and 42% completion). Poor internet cuts completion by 15–20 percentage points across every course category regardless of subject.
 
+<img width="1165" height="655" alt="Screenshot 2026-06-19 101447" src="https://github.com/user-attachments/assets/1a698282-0431-449b-8b66-100b8717c77c" />
 
 
 2. Engagement & Dropout Behaviour
@@ -57,6 +59,9 @@ Do struggling students drop out more on poor internet? — clustered bar compari
 
 
 Key finding: Intermittent internet users drop out at 33% — 65% higher than WiFi users (20%). South/Southeast Asia combined with poor internet is the highest-risk segment in the dataset (35.19%). 347 students are currently flagged as High Risk, with a 34.87% dropout rate and an average score of just 43 — more than double the dropout rate of Low Risk students (15.16%).
+
+<img width="1161" height="655" alt="Screenshot 2026-06-19 101507" src="https://github.com/user-attachments/assets/ac316b6a-1216-4ce9-8f8d-d8fb28eb1232" />
+
 
 
 🎯 Core Insights Across the Dashboard
