@@ -46,6 +46,8 @@ Does higher engagement lead to better scores? — scatter plot of engagement sco
 
 
 **Key finding:** Students logging in fewer than 10 days a month drop out at nearly 40%. Login frequency matters more than total watch time — students who log in often but watch in short sessions (21.7% dropout) outperform infrequent "binge" viewers who watch a lot in rare sessions (31–35% dropout). Consistency of habit beats volume of content consumed. Inactivity beyond 30 days is a strong early warning signal for intervention.
+<img width="1164" height="655" alt="Screenshot 2026-06-19 174015" src="https://github.com/user-attachments/assets/196c649d-93d4-405d-bc54-4287c5307fe6" />
+
 
 
 **3. Dropout Risk & Access Barriers**
