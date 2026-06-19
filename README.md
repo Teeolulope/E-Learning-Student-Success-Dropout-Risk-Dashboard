@@ -16,11 +16,11 @@ Fields include demographics, device & internet type, subscription tier, login fr
 
 <img width="1888" height="917" alt="Screenshot 2026-06-19 102309" src="https://github.com/user-attachments/assets/cf95f0e9-87ad-4a3e-9625-535f3941b165" />
 
-📊 Dashboard Pages
+📊 **Dashboard Pages**
 
 **1.** **Course Performance**
 
-Answers: which courses are working, and which aren't?
+**Answers: which courses are working, and which aren't?**
 
 
 Which courses have the highest completion? — ranked bar chart by completion rate
@@ -36,7 +36,7 @@ Key finding: Programming and Data Analytics lead on both completion (66% and 64%
 
 **2. Engagement & Dropout Behaviour**
 
-Answers: how does student behaviour predict dropout?
+**Answers: how does student behaviour predict dropout?**
 
 
 Does poor internet worsen low login risk? — clustered bar of dropout rate by login frequency, split by internet type
@@ -52,7 +52,7 @@ Does higher engagement lead to better scores? — scatter plot of engagement sco
 
 **3. Dropout Risk & Access Barriers**
 
-Answers: who is at risk right now, and why?
+**Answers: who is at risk right now, and why?**
 
 
 How many students are at risk right now? — risk segmentation table (High / Medium / Low) with count, dropout rate, and average score per segment
