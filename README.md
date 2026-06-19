@@ -12,7 +12,7 @@ The dashboard is built to be reviewed on a recurring basis to monitor course per
 
 5,000 student records across 3 regions (Latin America, South/Southeast Asia, Sub-Saharan Africa)
 Fields include demographics, device & internet type, subscription tier, login frequency, video watch time, quiz performance, completion rate, course category, and dropout status
-![image]Screenshot 2026-06-19 101447.png
+![image](Screenshot 2026-06-19 101447.png)
 📊 Dashboard Pages
 
 1. Course Performance
