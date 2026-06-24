@@ -20,7 +20,7 @@ Fields include demographics, device & internet type, subscription tier, login fr
 
 **1.** **Course Performance**
 
-**Answers: which courses are working, and which aren't?**
+**Answers: Which courses are working, and which aren't?**
 
 Key finding: Programming and Data Analytics lead on both completion (66% and 64%) and quiz scores, while Vocational and Healthcare consistently underperform on both (40% and 42% completion). Poor internet cuts completion by 15–20 percentage points across every course category regardless of subject.
 
@@ -29,7 +29,7 @@ Key finding: Programming and Data Analytics lead on both completion (66% and 64%
 
 **2. Engagement & Dropout Behaviour**
 
-**Answers: how does student behaviour predict dropout?**
+**Answers: How does student behaviour predict dropout?**
 
 
 **Key finding:** Students logging in fewer than 10 days a month drop out at nearly 40%. Login frequency matters more than total watch time — students who log in often but watch in short sessions (21.7% dropout) outperform infrequent "binge" viewers who watch a lot in rare sessions (31–35% dropout). Consistency of habit beats volume of content consumed. Inactivity beyond 30 days is a strong early warning signal for intervention.
@@ -39,7 +39,7 @@ Key finding: Programming and Data Analytics lead on both completion (66% and 64%
 
 **3. Dropout Risk & Access Barriers**
 
-**Answers: who is at risk right now, and why?**
+**Answers: Who is at risk right now, and why?**
 
 
 **Key finding:** Intermittent internet users drop out at 33% — 65% higher than WiFi users (20%). South/Southeast Asia combined with poor internet is the highest-risk segment in the dataset (35.19%). 347 students are currently flagged as High Risk, with a 34.87% dropout rate and an average score of just 43 — more than double the dropout rate of Low Risk students (15.16%).
