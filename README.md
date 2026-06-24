@@ -22,13 +22,6 @@ Fields include demographics, device & internet type, subscription tier, login fr
 
 **Answers: which courses are working, and which aren't?**
 
-
-Which courses have the highest completion? — ranked bar chart by completion rate
-Do better courses lose fewer students? — combo chart comparing dropout rate against the category average
-Does poor internet hurt course completion? — heatmap of completion rate by course category × internet type
-Do completers score higher? — scatter plot of completion rate vs average quiz score
-
-
 Key finding: Programming and Data Analytics lead on both completion (66% and 64%) and quiz scores, while Vocational and Healthcare consistently underperform on both (40% and 42% completion). Poor internet cuts completion by 15–20 percentage points across every course category regardless of subject.
 
 <img width="1165" height="655" alt="Screenshot 2026-06-19 101447" src="https://github.com/user-attachments/assets/1a698282-0431-449b-8b66-100b8717c77c" />
@@ -39,12 +32,6 @@ Key finding: Programming and Data Analytics lead on both completion (66% and 64%
 **Answers: how does student behaviour predict dropout?**
 
 
-Does poor internet worsen low login risk? — clustered bar of dropout rate by login frequency, split by internet type
-How fast does inactivity lead to dropout? — line chart of dropout rate by days since last active
-Which login and watch time combo is riskiest? — heatmap cross-referencing login frequency and watch time buckets
-Does higher engagement lead to better scores? — scatter plot of engagement score vs average quiz score by engagement level
-
-
 **Key finding:** Students logging in fewer than 10 days a month drop out at nearly 40%. Login frequency matters more than total watch time — students who log in often but watch in short sessions (21.7% dropout) outperform infrequent "binge" viewers who watch a lot in rare sessions (31–35% dropout). Consistency of habit beats volume of content consumed. Inactivity beyond 30 days is a strong early warning signal for intervention.
 <img width="1164" height="655" alt="Screenshot 2026-06-19 174015" src="https://github.com/user-attachments/assets/196c649d-93d4-405d-bc54-4287c5307fe6" />
 
@@ -53,12 +40,6 @@ Does higher engagement lead to better scores? — scatter plot of engagement sco
 **3. Dropout Risk & Access Barriers**
 
 **Answers: who is at risk right now, and why?**
-
-
-How many students are at risk right now? — risk segmentation table (High / Medium / Low) with count, dropout rate, and average score per segment
-Where is dropout risk highest? — heatmap of dropout rate by region × internet type
-Which internet type has the most dropouts? — bar chart by internet type
-Do struggling students drop out more on poor internet? — clustered bar comparing dropout rate for above-average vs below-average completers, split by internet type
 
 
 **Key finding:** Intermittent internet users drop out at 33% — 65% higher than WiFi users (20%). South/Southeast Asia combined with poor internet is the highest-risk segment in the dataset (35.19%). 347 students are currently flagged as High Risk, with a 34.87% dropout rate and an average score of just 43 — more than double the dropout rate of Low Risk students (15.16%).
